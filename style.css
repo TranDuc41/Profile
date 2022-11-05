@@ -58,16 +58,13 @@ img{
 }
 
 .social{
-    margin: 40px 0;
+    margin: 25px 0;
 }
 
 .social a{
     color: white;
-    margin: 25px 10px;
+    margin: 25px 20px;
     font-size: 20px;
-    border: 1px solid;
-    padding: 10px;
-    border-radius: 10px;
 }
 
 .social a:hover{
